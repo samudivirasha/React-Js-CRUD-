@@ -3,6 +3,7 @@ import './App.css';
 import {BrowserRouter, Route, Routes} from 'react-router-dom';
 import EmpListing from './EmpListing';
 import EmpDetails from './EmpDetails';
+import EmpCreate from './EmpCreate';
 import EmpEdit from './EmpEdit';
 
 function App() {
